@@ -4,10 +4,10 @@ import javafx.scene.control.TextField;
 
 public class Controller {
 
-    public TextField tname;
-    public TextField tid;
-    public TextField tmarks;
-    public TextField tcontact;
+    private TextField tname;
+    private TextField tid;
+    private TextField tmarks;
+    private TextField tcontact;
 
     public TextArea texta;
 
